@@ -3,7 +3,8 @@
 
 The name of this app is <i>orm-e-commerce</i> it is designed for operators of e-commerce businesses to help them in showcasing their products with price as well as the inventory level.
 
-[video link of orm-e-commerce]()
+video link of orm-e-commerce
+https://drive.google.com/file/d/1NgTcMb0BiUd_ZmbW8PKObeG4a5A2AGh_/view
 
 
 <strong>Image</strong>
